@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "LINDOR Double Chocolate Truffles",
+    "description": "This item contains 25 truffles",
+    "price": 45
+  },
+  {
+    "id": 2,
+    "title": "LINDOR Pistachio Truffles",
+    "description": "This item contains 25 truffles",
+    "price": 27
+  },
+  {
+    "id": 3,
+    "title": "LINDOR Milk Mint Truffles",
+    "description": "This item contains 25 truffles",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "title": "LINDOR Milk Chocolate Truffles",
+    "description": "This item contains 25 truffles",
+    "price": 75
+  },
+  {
+    "id": 5,
+    "title": "LINDOR Candy Cane Truffles",
+    "description": "This item contains 25 truffles",
+    "price": 99
+  }
+]
