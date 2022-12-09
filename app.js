@@ -44,7 +44,7 @@ app.use(function(req, res, next) {
   next(err);
 });
 
-// error handling
+// error handlingg
 app.use(function(err, req, res, next) {
 
   res.locals.message = err.message;
