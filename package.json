@@ -1,8 +1,8 @@
 {
   "name": "nodejs-shopping-cart",
   "version": "1.0.0",
-  "author": "George Tsopouridis",
-  "email": "gtsopour@gmail.com",
+  "author": "Navateja Peetani",
+  "email": "C0831447@mylambton.ca",
   "private": false,
   "scripts": {
     "start": "node ./bin/www"
